@@ -5,4 +5,4 @@ Content-Based Recommendation system for korean dramas.
 Dataset is created by fetching data from tmDB API.
 
 ## Deployed Webite Link
-https://kdrama-recommender.herokuapp.com/
+https://ananyaa118-kdrama-recommender-app-tj7r6p.streamlit.app/
